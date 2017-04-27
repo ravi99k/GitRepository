@@ -25,7 +25,7 @@ public class DemoThread1 {
 
 		thread1.start();
 		thread2.start();
-		//test
+		
 	}
 
 }
